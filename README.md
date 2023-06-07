@@ -6,6 +6,10 @@ directory on your laptop from Github:
    user@linux:~> git clone https://github.com/summerschool-ahead2020/ism-hands-on.git
 ```
 
+See the [School software install page](https://summerschool-ahead2020.github.io/hands-on-sessions/install/install.html)
+or [the SPEX manual](https://spex-xray.github.io/spex-help/getstarted.html)
+for information about running SPEX in a Jupyter notebook.
+
 ## SPEX and the instellar medium
 
 In general, the interstellar medium can be modelled by two SPEX models.
