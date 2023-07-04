@@ -79,8 +79,8 @@ For more inspiration check [Costantini et al.
 or [Rogantini et al.
 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...645A..98R/abstract).
 
-The filenames are `xrism-sim-xraybinary/simxmm2.res` and
-`xrism-sim-xraybinary/simxmm2.spo`.
+The filenames are `gas-fit-exercise/simxmm3.res` and
+`gas-fit-exercise/simxmm3.spo`.
 
 Use the following settings to start:
 
@@ -89,7 +89,6 @@ Use the following settings to start:
     s.com('comt')
     s.com('hot') 
     s.com('amol')
-    s.com('hot') 
     s.com('hot') 
 
 Relate the models!
