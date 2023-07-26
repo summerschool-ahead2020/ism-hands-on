@@ -1,6 +1,5 @@
-This folders contains XMM RGS data of the X-ray binary 4U 1820-30. We will use it to fit different gas components along the line of sight.
-
-Fit several components of the ISM with different temperatures. For more inspiration check Costantini et al. 2012 or Rogantini et al. 2021
+This folder contains XMM RGS data of the X-ray binary 4U 1820-30. We will use it to fit dust, cold gas and a warm/hot gas component along the line of sight.
+For more information check Costantini et al. 2012 or Rogantini et al. 2021
 
 Use the following settings to start:
 dist 7.6 kpc
